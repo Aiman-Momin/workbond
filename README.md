@@ -32,6 +32,8 @@ Adaptive Escrow Pro revolutionizes freelance payments by combining artificial in
 ```
 contracts/adaptive_escrow.rs
 ```
+contract address : 71ebeabbd2835cec00dcc6c2617b55bb63badbc8d4613e6f014be11cf21773ec
+
 - **AdaptiveEscrow Contract**: Core escrow functionality with AI-driven rule updates
 - **Security Features**: Role-based access control and input validation
 - **Event System**: Comprehensive event logging for analytics
