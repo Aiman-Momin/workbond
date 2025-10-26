@@ -263,3 +263,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React/Next.js** community for the frontend framework
 - **TailwindCSS** for the design system
 
+##Demo video : https://drive.google.com/file/d/1MXC9lvdmG8YLuiPlMKTjOHoWfN1mcTOz/view?usp=sharing
