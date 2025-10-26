@@ -263,14 +263,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React/Next.js** community for the frontend framework
 - **TailwindCSS** for the design system
 
-## 📞 Support
-
-- **Documentation**: [docs.adaptive-escrow.com](https://docs.adaptive-escrow.com)
-- **Discord**: [discord.gg/adaptive-escrow](https://discord.gg/adaptive-escrow)
-- **Email**: support@adaptive-escrow.com
-
----
-
-**Built with ❤️ by the Adaptive Escrow Pro Team**
-
-*Revolutionizing freelance payments with AI and blockchain technology*
